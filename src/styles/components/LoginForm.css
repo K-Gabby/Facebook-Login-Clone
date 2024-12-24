@@ -1,0 +1,118 @@
+.login-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 400px;
+    gap: 10px;
+  }
+
+/* Form Styles */
+form {
+  height: 250px;
+  width: 260px;
+  background-color: white;
+  padding: 15px;
+  margin-right: 20px;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #333;
+}
+
+/* Input Group */
+.input-group {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.input-group input {
+    height: 40px;
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #dddfe2;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.input-group input:focus {
+    outline: none;
+    border-color: #1877f2;
+    box-shadow: 0 0 3px #1877f2;
+}
+
+/* Login Button */
+.login-button {
+    height: 40px;
+    width: 100%;
+    max-width: 400px;
+    background-color: #1877f2;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 15px;
+}
+
+.login-button:hover {
+    background-color: #165eac;
+}
+
+.login-button:active {
+    background-color: #144a8b;
+}
+
+/* Forgotten Password Link */
+.link-button {
+    background: none;
+    border: none;
+    color: #1877f2;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 0;
+}
+  
+.link-button:hover {
+    text-decoration: none;
+}  
+
+/* Sign-Up Button */
+.sign-up {
+    margin-top: 20px;
+}
+
+.sign-up button {
+    height: 40px;
+    width: 100%;
+    max-width: 400px;
+    background-color: #42b72a;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.sign-up button:hover {
+    background-color: #36a420;
+}
+
+.footer-text {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #606770;
+}
+  
+.footer-text b {
+    color: #1877f2;
+    cursor: pointer;
+}
