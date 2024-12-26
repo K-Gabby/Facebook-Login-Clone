@@ -54,6 +54,9 @@ const LoginForm = () => {
           <b>Create a Page</b> for a celebrity, brand, or business.
         </p>
       </div>
+      <footer style="text-align: center; margin-top: 20px;">
+      <p><strong>Disclaimer:</strong> This is a demonstration project created for educational purposes. It is not affiliated with or endorsed by Facebook.</p>
+      </footer>
     </div>
   );
 };
