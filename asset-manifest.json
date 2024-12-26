@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Facebook-Login-Clone/static/css/main.f89961bd.css",
+    "main.js": "/Facebook-Login-Clone/static/js/main.d10ebdbf.js",
+    "static/js/488.3d38a052.chunk.js": "/Facebook-Login-Clone/static/js/488.3d38a052.chunk.js",
+    "index.html": "/Facebook-Login-Clone/index.html",
+    "main.f89961bd.css.map": "/Facebook-Login-Clone/static/css/main.f89961bd.css.map",
+    "main.d10ebdbf.js.map": "/Facebook-Login-Clone/static/js/main.d10ebdbf.js.map",
+    "488.3d38a052.chunk.js.map": "/Facebook-Login-Clone/static/js/488.3d38a052.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f89961bd.css",
+    "static/js/main.d10ebdbf.js"
+  ]
+}
