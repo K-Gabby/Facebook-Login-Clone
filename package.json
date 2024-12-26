@@ -1,7 +1,7 @@
 {
   "name": "facebook-login-clone",
   "version": "0.1.0",
-  "homepage": "https://k-gabby.github.io/Facebook-Login-Clone/",
+  "homepage": "https://k-gabby.github.io/Login-page/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
